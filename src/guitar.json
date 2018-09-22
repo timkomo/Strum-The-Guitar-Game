@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "stratocaster.jpg"
+    },
+    {
+      "id": 2,
+      "image": "telecaster.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "jazzmaster.jpg"
+    },
+    {
+      "id": 4,
+      "image": "jaguar.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "les_paul.jpg"
+    },
+    {
+      "id": 6,
+      "image": "sg.jpg"
+    },
+    {
+      "id": 7,
+      "image": "explorer.jpg"
+    },
+    {
+      "id": 8,
+      "image": "firebird.jpg"
+    },
+    {
+      "id": 9,
+      "image": "flying_v.jpg"
+    },
+    {
+      "id": 10,
+      "image": "iceman.jpg"
+    },
+    {
+      "id": 11,
+      "image": "fireman.jpg"
+    },
+    {
+      "id": 12,
+      "image": "pgm.jpg"
+    }
+  ]
+  
