@@ -66,7 +66,7 @@ class App extends Component {
     return (
       <div>
         <Jumbotron />
-        <Navbar 
+         <Navbar 
           score={this.state.score}
         />
         <div className="wrapper">
