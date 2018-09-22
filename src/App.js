@@ -65,10 +65,10 @@ class App extends Component {
   render() {
     return (
       <div>
+        <Jumbotron />
         <Navbar 
           score={this.state.score}
         />
-        <Jumbotron />
         <div className="wrapper">
           {this.state.guitar.map(guitar => (
             <FriendCard

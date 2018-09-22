@@ -1,11 +1,13 @@
 .footer{
-	background-color: #490549;
+	background-color: linen;
 	width: 100%;
 	position: relative;
+	box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+
 }
 
 .footer p{
-	color: white;
+	color: black;
 	text-align: center;
 	padding: 10px 0;
 	font-size: 15px;
